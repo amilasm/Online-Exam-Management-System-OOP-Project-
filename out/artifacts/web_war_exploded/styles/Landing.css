@@ -1,0 +1,59 @@
+.btn1{
+    position: absolute;
+    top:88%;
+    right:80%;
+    width:100px;
+    height:40px;
+    background-color:#002966;
+
+    border-color: #002966;
+    color:white;
+    font-family: inherit;
+    font-size: 18px;
+}
+
+.btn1:hover {
+      border: 1px solid #000;
+	  color:#ffffff;
+      background: linear-gradient(to right, #002966 0%, #0066ff 100%);
+       }
+
+.btn2{
+    position: absolute;
+    top:88%;
+    right:50%;
+    width:100px;
+    height:40px;
+    background-color:#002966;
+
+    border-color: #002966;
+    color:white;
+    font-family: inherit;
+    font-size: 18px;
+}
+
+.btn2:hover {
+      border: 1px solid #000;
+	  color:#ffffff;
+      background: linear-gradient(to right, #002966 0%, #0066ff 100%);
+       }
+
+.btn3{
+    position: absolute;
+    top:88%;
+    right:20%;
+    width:100px;
+    height:40px;
+    background-color:#002966;
+
+    border-color: #002966;
+    color:white;
+    font-family: inherit;
+    font-size: 18px;
+}
+
+.btn3:hover {
+      border: 1px solid #000;
+	  color:#ffffff;
+      background: linear-gradient(to right, #002966 0%, #0066ff 100%);
+       }
